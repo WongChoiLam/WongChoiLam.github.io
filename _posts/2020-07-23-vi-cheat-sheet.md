@@ -2,7 +2,7 @@
 layout: post
 title: Self-made vi cheat sheet
 subtitle: Great for beginners
-gh-repo: WongChoiLam/cheat-sheets
+gh-repo: WongChoiLam/cheat_sheets
 gh-badge: [star, fork, follow]
 tags: [linux]
 comments: true
