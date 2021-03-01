@@ -8,4 +8,4 @@ tags: [linux]
 comments: true
 ---
 
-I like to set cheat sheet as the background and I didn't find a suitable one for vi. So I made one.
+![Cheat-sheet](../assets/img/vi-dark.png){: .mx-auto.d-block :}
