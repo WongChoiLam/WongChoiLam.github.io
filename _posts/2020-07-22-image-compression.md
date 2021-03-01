@@ -20,7 +20,7 @@ The algorithm used here for finding this color set is called k-means algorithm (
 ## Result
 
 The following image shows the results of running my image compression algorithm on a 300*200 image, with 16 average colors and 10 iterations
-![Bird](https://i.imgur.com/gO0Ob0d.png){: .mx-auto.d-block :}
+![Bird](../assets/img/compression.png){: .mx-auto.d-block :}
 
 Assuming that no other compressions are applied, the original image needs 3 byte for each pixels. Whereas, the compressed one needs only 4 bits.
 
