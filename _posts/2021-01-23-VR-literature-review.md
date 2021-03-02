@@ -6,7 +6,7 @@ tags: [VR]
 comments: true
 ---
 
-Access the article [here]({{ site.url }}/assets/pdf/comp0036.pdf).
+Access the full article [here]({{ site.url }}/assets/pdf/comp0036.pdf).
 
 ### Abstract
 
