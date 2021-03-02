@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Machine Learning for football matches outcomes
+title: Using Machine Learning for predicting football matches outcomes
 subtitle: with different approaches
 tags: [Python,Machine Learning]
 comments: true
