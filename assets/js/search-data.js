@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of my projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "post-a-post-with-plotly-js",
+  },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -440,6 +433,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-ai-for-the-common-good-hackathon",
+          title: 'AI for the common good hackathon',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hackathon/";
             },},{
         id: 'social-email',
         title: 'email',
