@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research assistant at <a href='http://zju-fast.com/'>FAST Lab</a>, Zhejiang University | UCL computer science graduate
+subtitle: Research assistant at <a href='https://feigao-robotics.com/'>FAST Lab</a> | UCL computer science graduate
 
 profile:
   align: right
@@ -24,8 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a research assistant at [FAST Lab](http://zju-fast.com/), where I develop generative models for mobile manipulator motion planning. My research interests lie in Visual-Language-Action Models (VLAs), Reinforcement Learning (RL) and Motion Planning -- areas I aim to explore further in a PhD or research internship.
-
-I hold BSc & MEng degrees in Computer Science (First Class Honours) from [University College London (UCL)](https://www.ucl.ac.uk/). After graduating, I worked as a research assistant at Unmanned Systems Research Group at CUHK, under supervision of [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), followed by my curent position at FAST Lab.
+I hold BSc & MEng degrees in Computer Science (First Class Honours) from [University College London (UCL)](https://www.ucl.ac.uk/). After graduating, I worked as a research assistant at Unmanned Systems Research Group at CUHK, under supervision of [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), followed by my curent position at FAST Lab, supervised by [Prof. Fei Gao](https://feigao-robotics.com/).
 
 See my CV [here](/assets/pdf/Wong_CV_2025.pdf).
